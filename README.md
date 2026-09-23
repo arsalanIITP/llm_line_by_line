@@ -3,4 +3,4 @@ This repo includes implimentation of Language Model and codes that are used in t
 
 
 Modules 
-1:- The engine :- Attention Mechanism 
+1:- The engine :- Self Attention Mechanism 
