@@ -3,5 +3,5 @@ This repo includes implimentation of Language Model and codes that are used in t
 
 
 Modules 
-1:- The engine :- Self Attention Mechanism 
+1:- The engine :- Self Attention Mechanism </br>
 2:- The fitting [putting steering, gear, chassis] :- LLM Architecture
